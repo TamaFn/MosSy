@@ -1092,5 +1092,10 @@
     "your_email_password": "Your email password",
     "current_email": "Current email",
     "new_email": "New email",
-    "join_free_for_a_day": "Join free for a day"
+    "join_free_for_a_day": "Join free for a day",
+    "please_find_below_a_cost-breakdown_for_the_recent_work_completed": "Please find below a cost-breakdown for the recent work completed",
+    "your_plan": "Your plan",
+    "payment_date": "Payment date",
+    "page_title": "Page title",
+    "paid_amount": "Paid amount"
 }

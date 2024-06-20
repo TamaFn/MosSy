@@ -30,7 +30,7 @@
 	            <div class="card-body">
 	            	<div class="row">
 						<div class="col-sm-12 col-md-6 col-lg-6 pt-3 pb-2">
-							<img src="<?php echo base_url();?>assets/global/logo.png" height="30px;" />
+							<img src="<?php echo base_url();?>assets/global/logo2.png" height="30px;" />
 						</div>
 						<div class="col-sm-12 col-md-6 col-lg-6 pt-3 pb-2">
 							<h4 class="header-title float-right text-success">Subscription history</h4>

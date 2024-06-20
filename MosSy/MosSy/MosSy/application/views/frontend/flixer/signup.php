@@ -29,13 +29,13 @@
 				<?php endif;?>
 				<form method="post" action="<?php echo base_url();?>index.php?home/signup">
 						<h3 class="black_text" style="background-color: black; color: white; padding: 10px 0; border-radius: 5px; font-weight: bold;"><?php echo get_phrase('Sign_Up');?></h3>
-<!-- 						
+						
 						<div style="margin-top: 20px; background-color: black; color: white; padding: 10px 0 ">
-							<?php echo get_phrase('name');?>
+							<?php echo get_phrase('Name');?>
 						</div>
-						<div class="black_text" name="name">
+						<div class="black_text">
 							<input required type="text" placeholder="Enter your name" name="name" style="padding: 10px; width: 100%; background-color: rgba(0, 0, 0, 0.9); color: white; border: 1px solid white; border-radius: 5px;" />
-						</div> -->
+						</div>
 
 						<div style="margin-top: 20px; background-color: black; color: white; padding: 10px 0 ">
 							<?php echo get_phrase('Email_Address');?>
